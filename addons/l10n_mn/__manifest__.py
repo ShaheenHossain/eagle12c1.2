@@ -5,7 +5,7 @@
     "name" : "Mongolia - Accounting",
     "version" : "1.0",
     'category': 'Localization',
-    "author" : "BumanIT LLC, Eagle ERP,
+    "author" : "BumanIT LLC, Eagle ERP",
     "description": """
 This is the module to manage the accounting chart for Mongolia.
 ===============================================================
